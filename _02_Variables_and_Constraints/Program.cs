@@ -1,8 +1,8 @@
 ﻿using static System.Console;
 
-namespace Program
+namespace _02_Variables_and_Constraints
 {
-    class _02_Variables_and_Constraints
+    class Program
     {
         protected static void Example_Sbyte()
         {
