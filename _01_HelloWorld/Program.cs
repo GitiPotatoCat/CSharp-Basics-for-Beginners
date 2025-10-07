@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _01_HelloWorld 
+namespace Program
 {
-    class Program 
+    class _01_HelloWorld
     {
         static void Main(string[] args)
         {
