@@ -12,7 +12,8 @@ namespace _03_MaximumOfTwo
         private static int InputFirstNum = 0, InputSecondNum = 0;
         private static bool IsValidInput = false;
 
-        protected static int FindMaximumBetweenTwo(int x, int y) {
+        protected static int FindMaximumBetweenTwo(int x, int y) 
+        {
             return x > y ? x : y;
         }
 
